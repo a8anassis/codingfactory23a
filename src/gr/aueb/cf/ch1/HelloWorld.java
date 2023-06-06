@@ -1,8 +1,7 @@
 package gr.aueb.cf.ch1;
 
 /**
- * Εκτυπώνει Hello World! στο
- * standard output (κονσόλα).
+ * Prints Hello World!
  *
  * @author a8ana
  */
